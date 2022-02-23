@@ -11,7 +11,7 @@ import ru.drom.pages.MainPage;
 
 import java.util.stream.Stream;
 
-public class DromTests extends TestBase{
+public class DromTests extends TestBase {
 
     MainPage mainPage = new MainPage();
     AbstractInnerPage abstractInnerPage = new AbstractInnerPage();
